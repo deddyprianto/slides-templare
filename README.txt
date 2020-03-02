@@ -1,13 +1,12 @@
 
 TITLE: 
-Slides - Responsive Free HTML5 Horizontal Slides Template
+Slides - Responsive Free 
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co and Designmodo.com
+DESIGNED & DEVELOPED deddyprianto
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: https://deddyprianto.github.io/
+
 
 
 CREDITS:
